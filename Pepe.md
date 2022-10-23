@@ -7,6 +7,8 @@ $5*\frac{8\phi}{5*a}$
 $$\frac{5}{5}*5^{2x\pi}$$
 
 ##### Vzorec
+
+další text
 ## $5*\frac{5}{a}=12^{x}$
 
 Pepepga

@@ -1,0 +1,3 @@
+- 1643 - 1723
+- 1687 - kniha - **Mechanika**
+- **[[Newtonovy zákony]]**

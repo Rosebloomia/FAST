@@ -15,6 +15,11 @@ Pepepga
 ###### $$\alpha=\frac{\sqrt{i_{min}}}{a}$$
 ---
 
+[[13. Pohybové rovnice#Volný pád|Volný pád]]
+
+
+
+
 Hi Ross,  
 I want to make a note in <mark style="background: #ABF7F7A6;">Obsidian</mark> about the syntax code to insert a dash. The Markdown code I use is
 How do I write the code into my note as a <mark style="background: #FFF3A3A6;">comm</mark>ent so that the code remains intact and is not read as Markdown code?

@@ -7,6 +7,13 @@
 ##### Heading 5
 ###### Heading 6
 
+```ad-check
+title: Rámeček
+Text
+
+```
+
+
 ### Vzorec 2 
 $5*\frac{8\phi}{5*a}$
 

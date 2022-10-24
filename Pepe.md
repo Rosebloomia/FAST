@@ -42,5 +42,9 @@ How do I write the code into my note as a <mark style="background: #FFF3A3A6;">c
 # $\frac{5}{\sqrt{2}}$
 ```
 ---
-
+```desmos-graph
+y=\sin(x)
+y=\cos(x)
+y=\tan(x)
+```
 

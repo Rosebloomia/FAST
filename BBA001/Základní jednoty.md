@@ -6,4 +6,5 @@
 | Proud            | I        | ampér          | A        |
 | Svítivost        | I        | kandelon       | cd       |
 | Teplotní rozdíl  | T        | kelvin         | K        |
-| Látkové množství | u        | mol            | mol         |
+| Látkové množství | u        | mol            | mol      |
+

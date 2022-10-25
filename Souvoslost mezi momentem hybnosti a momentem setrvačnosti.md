@@ -2,8 +2,8 @@
 ```start-multi-column  
 ID: Tabluka_hybnost_setrvacnost  
 number of columns: 2 
-border: false
-shadow: true
+border: true
+shadow: false
 ```
 
 #### Posuvný pohyb
@@ -17,7 +17,7 @@ shadow: true
 
 #### Otáčivý pohyb
 ##### Moment hybnosti - $\vec{b}=\vec{r}*\vec{p}$
-##### Síla - $\vec{M}=\vec{u}*\vec{F}$
+##### Moment síly - $\vec{M}=\vec{u}*\vec{F}$
 ##### Rotační impuls - $\vec{L}=\int{\vec{M}}dt=d\vec{b}$
 ### 2. Pohybová rovnice $$\frac{d\vec{b}}{dt}=\vec{M}$$
 

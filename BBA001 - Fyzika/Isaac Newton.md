@@ -1,4 +1,4 @@
 - 1643 - 1723
-- 1687 - kniha - **Mechanika**
-- **[[Newtonovy zákony]]**
+- 1687 - kniha - **Mechanika** ^a108e1
+- **[[12. Newtonovy zákony]]**
 - 

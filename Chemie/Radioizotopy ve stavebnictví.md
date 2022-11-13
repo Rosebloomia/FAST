@@ -1,0 +1,4 @@
+- sledování toku podzemních vod
+- měření hutnosti zemin
+- měření vlhkosti materiálů
+- detektory kouře

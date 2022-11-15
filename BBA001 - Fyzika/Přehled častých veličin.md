@@ -1,9 +1,10 @@
+
 | veličina      | jednotky          | základní vztah        |
 | ------------- | ----------------- | --------------------- |
 | čas - t       | [$s$]             | $t=\frac{v}{a}$       |
 | dráha - s     | [$m$]             | $s=\frac{1}{2}*a*t^2$ |
 | rychlost - v  | [$\frac{m}{s}$]   | $v=a*t$               |
-| zrychlení - a | [$\frac{m}{s^2}$] | $a=\frac{v}{t}$     |
+| zrychlení - a | [$\frac{m}{s^2}$] | $a=\frac{v}{t}$       |
 
 | veličina    | jednotky                           | základní vztah |
 | ----------- | ---------------------------------- | -------------- |

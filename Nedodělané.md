@@ -22,3 +22,7 @@
 [[31. Rovnováha tuhého tělesa]]
 [[32. Pohyb tuhého tělesa]]
 [[33. Celková kintetická energie tuhého tělesa]]
+[[34. Moment setrvačnosti]]
+[[35. Práce a výkon při otáčení tuhého tělesa]]
+[[36. Rovinný bod tuhého tělesa]]
+[[37. Experimetální určení součinitele smykového tření]]

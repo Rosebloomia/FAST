@@ -1,3 +1,4 @@
+
 | Název            | Označení | Název jednotky | jednotka |
 | ---------------- | -------- | -------------- | -------- |
 | Délka            | l        | metr           | m        |
@@ -7,4 +8,3 @@
 | Svítivost        | I        | kandelon       | cd       |
 | Teplotní rozdíl  | T        | kelvin         | K        |
 | Látkové množství | u        | mol            | mol      |
-

@@ -7,7 +7,7 @@
 | $F[kg*\frac{m}{s^2}]=[N]$ |$M[kg*\frac{1}{s^2}*m]$|
 
 - $a$ - zrychlení
-- $s$
+- $r$ - rameno síly (v principu stejná veličina jak $s$ - dráha)
 - $m$ - hmotnost
 - $F$ - síla
 - $F(kruh)$ - kruhová síla (na mezivýpočet)
@@ -16,7 +16,7 @@
 
 
 vysvětlení: kde se vzala jednotka Newton $[N]$ u Momentu síly $[M]$
-$$\vec{a}=[\frac{m}{s^2}]\rightarrow*\;m\rightarrow[kg*\frac{m}{s^2}]=[N]=\vec{F}$$
+$$a=[\frac{m}{s^2}]\rightarrow*\;m\rightarrow[kg*\frac{m}{s^2}]=[N]=F$$
 $$\varepsilon=[\frac{1}{s^2}]\rightarrow*\;m\rightarrow[kg*\frac{1}{s^2}]=F(kruh)$$
 $$F(kruh)*r\rightarrow\;[kg*\frac{1}{s^2}*m]=M\;[N]$$
 - kde r je rameno působiště síly od osy otáčení (klasika $\rightarrow$ M = síla * rameno)

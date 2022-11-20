@@ -14,7 +14,9 @@
 - $M$ - moment síly
 - $\varepsilon$ - kruhové zrychlení    
 
+
+vysvětlení: kde se vzala jednotka Newton $[N]$ u Momentu síly $[M]$
 $$\vec{a}=[\frac{m}{s^2}]\rightarrow*\;m\rightarrow[kg*\frac{m}{s^2}]=[N]=\vec{F}$$
 $$\varepsilon=[\frac{1}{s^2}]\rightarrow*\;m\rightarrow[kg*\frac{1}{s^2}]=F(kruh)$$
-$$F(kruh)*s\rightarrow\;[kg*\frac{1}{s^2}*m]=M\;[N]$$
+$$F(kruh)*r\rightarrow\;[kg*\frac{1}{s^2}*m]=M\;[N]$$
 - kde r je rameno působiště síly od osy otáčení (klasika $\rightarrow$ M = síla * rameno)

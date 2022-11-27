@@ -6,13 +6,15 @@
 | $a[\frac{m}{s^2}]$    | $\varepsilon[\frac{1}{s^2}]$ |
 | $F[kg*\frac{m}{s^2}]=[N]$ |$M[kg*\frac{1}{s^2}*m]$|
 
+- $s$ - dráha
+- $\varphi$ - dráha (rad)
 - $a$ - zrychlení
+- $\varepsilon$ - kruhové zrychlení   
 - $r$ - rameno síly (v principu stejná veličina jak $s$ - dráha)
 - $m$ - hmotnost
 - $F$ - síla
 - $F(kruh)$ - kruhová síla (na mezivýpočet)
 - $M$ - moment síly
-- $\varepsilon$ - kruhové zrychlení    
 
 
 

@@ -522,8 +522,8 @@ F-tření ^CaOUBzIF
 		},
 		{
 			"type": "arrow",
-			"version": 279,
-			"versionNonce": 287449788,
+			"version": 281,
+			"versionNonce": 717646652,
 			"isDeleted": false,
 			"id": "5bi9veM6mSKezAhwnKeHw",
 			"fillStyle": "hachure",
@@ -542,7 +542,7 @@ F-tření ^CaOUBzIF
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1670269014961,
+			"updated": 1670269025452,
 			"link": null,
 			"locked": false,
 			"startBinding": {

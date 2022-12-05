@@ -6,7 +6,7 @@ title: Třecí síla
 
 $$F_{tř}=F_n*\mu$$
 - $F_{tř}$ - třecí síla
-- $F_n$ - normálová síla (působící kolmo na spád)
+- $F_n$ ($F_1$) - normálová síla (působící kolmo na spád)
 - $\mu$ - součinitel tření
 ```
 

@@ -1,0 +1,2 @@
+![[naklonena_rovina]]
+

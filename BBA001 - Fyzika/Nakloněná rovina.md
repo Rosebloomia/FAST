@@ -28,8 +28,8 @@ $$F*s=W$$
 
 --- 
 #### Výpočet maximálního sklonu při kterém se těleso nehýbe
-$$F_2=F_{tř}$$
-- $F_2$ - síla rovnoběřný se sklonem
+$$F_1=F_{tř}$$
+- $F_1$ - síla rovnoběřný se sklonem
 - $F_{tř}$ - třecí síla
 ---
 $$G*\sin \alpha=G*\cos \alpha *\mu$$

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9cd0c506fd12e28f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a9fc5f953fb0915",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pepe.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9ff0592f024e841",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f3552d3ef22a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6be1e70e71a382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc9e6d42b508cf0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dade7d70e61d8c59",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f63be31210f82a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "43cb5759e11aaf9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a09905819cb8966",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pepe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9576c4a8c03be5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pepe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c396c9f43693fdb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4db83b636ead96bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pepe.md"
+              }
+            }
+          },
+          {
+            "id": "f2dea75ce4d0621b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a9fc5f953fb0915",
+  "lastOpenFiles": [
+    "1) Lorem Ipsum.md",
+    "Pepe.md"
+  ]
+}

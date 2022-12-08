@@ -2367,6 +2367,7 @@ prav
 pravo
 proti
 posunu
+potencion
 content
 connect
 curved
@@ -4257,6 +4258,7 @@ kWiw
 kö
 kNb
 kvadratick
+kinetick
 as
 aspect
 align

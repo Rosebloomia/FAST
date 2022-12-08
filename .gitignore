@@ -5,4 +5,5 @@
 .obsidian/hotkeys.json
 .obsidian/workspace
 .obsidian/workspace.json
-.obsidian/plugins/ava
+.obsidian/plugins/obsidian-textgenerator-plugin
+.obsidian/text-generator.json

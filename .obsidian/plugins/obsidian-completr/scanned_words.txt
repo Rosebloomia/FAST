@@ -1394,6 +1394,7 @@ EFe
 EyW
 EVUh
 Embedded
+Eulerova
 http
 height
 ha
@@ -2368,6 +2369,8 @@ pravo
 proti
 posunu
 potencion
+potenci
+pops
 content
 connect
 curved
@@ -2522,6 +2525,7 @@ cktY
 cwM
 commons
 celkov
+constant
 lt
 left
 line
@@ -2844,6 +2848,7 @@ mdF
 mgI
 mce
 maxim
+matematick
 gt
 gravita
 grid
@@ -4095,6 +4100,9 @@ tMC
 trajektorie
 troj
 teme
+tlakem
+tekutin
+tlivky
 ka
 kilogram
 kg
@@ -4259,6 +4267,7 @@ kö
 kNb
 kvadratick
 kinetick
+konstantn
 as
 aspect
 align
@@ -4547,6 +4556,7 @@ RjM
 RGtp
 Rozepsan
 Rachlost
+Rovnice
 fold
 fixed
 fill
@@ -5150,6 +5160,7 @@ uUv
 umfA
 upload
 uveden
+urychlen
 justify
 jej
 jednotky
@@ -5967,6 +5978,7 @@ Tno
 TcJ
 TtJ
 Tento
+Tato
 Markdown
 Mechanika
 MJ
@@ -6964,6 +6976,7 @@ Bnv
 BxdI
 BSRQh
 BR
+Bernoulliova
 Xx
 XXg
 Xy

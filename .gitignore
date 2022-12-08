@@ -1,3 +1,7 @@
 .vscode
 .DS_Store
-.obsidian
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/workspace
+.obsidian/workspace.json

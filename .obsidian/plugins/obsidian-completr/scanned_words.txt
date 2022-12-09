@@ -122,6 +122,7 @@ xbm
 xcT
 xYv
 xZhd
+xqU
 version
 viewBox
 vzh
@@ -1105,6 +1106,7 @@ Pozice
 Pro
 Pot
 Pokud
+PtXhir
 SVG
 Sv
 SI
@@ -1873,6 +1875,7 @@ ouU
 odpov
 opakuje
 odporu
+omfreh
 Graphics
 GY
 Gi
@@ -2380,6 +2383,7 @@ potencion
 potenci
 pops
 periodick
+plochu
 content
 connect
 curved
@@ -5730,6 +5734,7 @@ FgX
 FVT
 FThR
 Fyzik
+Fvz
 Ozna
 Obsidian
 Ov
@@ -6780,6 +6785,7 @@ Kdo
 Kqw
 Kyvadlo
 Kra
+KafXoI
 yx
 yoe
 yO
@@ -7006,6 +7012,7 @@ BxdI
 BSRQh
 BR
 Bernoulliova
+BeYf
 Xx
 XXg
 Xy
@@ -7135,6 +7142,7 @@ XxsC
 XIJ
 XlO
 XKUAVMJl
+XuKTU
 Ya
 YS
 YZW

@@ -296,6 +296,8 @@ vyj
 vykonan
 vzduchu
 vody
+vykonat
+vyt
 encoding
 edgeStyle
 edge
@@ -1568,6 +1570,8 @@ hel
 hodnot
 heln
 hledan
+hli
+hladinu
 www
 width
 whiteSpace
@@ -2384,6 +2388,8 @@ potenci
 pops
 periodick
 plochu
+plave
+podstavy
 content
 connect
 curved
@@ -2680,6 +2686,7 @@ lai
 letu
 livost
 lce
+lec
 mxGraphModel
 mxCell
 math
@@ -4443,6 +4450,7 @@ axn
 aUV
 asy
 add
+abychom
 Rychlost
 Ross
 Readme
@@ -6336,6 +6344,7 @@ JeYN
 Jeh
 JxI
 Jej
+Jakou
 Qa
 QJ
 QE

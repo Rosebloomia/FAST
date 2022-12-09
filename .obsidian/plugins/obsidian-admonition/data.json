@@ -11,6 +11,19 @@
       "title": "Vzorec",
       "injectColor": true,
       "noTitle": false
+    },
+    "teorie": {
+      "type": "teorie",
+      "color": "0, 213, 255",
+      "icon": {
+        "name": "align-left",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Teorie - ZK",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

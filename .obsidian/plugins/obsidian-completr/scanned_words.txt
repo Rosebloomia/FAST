@@ -4900,6 +4900,7 @@ najdeme
 nulu
 neh
 nosn
+nakreslit
 Array
 ABF
 Akce

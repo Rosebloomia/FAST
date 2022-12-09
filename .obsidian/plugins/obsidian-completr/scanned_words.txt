@@ -293,6 +293,8 @@ vsM
 vrhu
 vyj
 vykonan
+vzduchu
+vody
 encoding
 edgeStyle
 edge
@@ -965,6 +967,10 @@ sledku
 stupn
 sklonu
 sklonem
+skl
+shora
+sledkem
+silami
 PUBLIC
 Pepega
 Projevy
@@ -1865,6 +1871,8 @@ oZk
 oes
 ouU
 odpov
+opakuje
+odporu
 Graphics
 GY
 Gi
@@ -2371,6 +2379,7 @@ posunu
 potencion
 potenci
 pops
+periodick
 content
 connect
 curved
@@ -2526,6 +2535,7 @@ cwM
 commons
 celkov
 constant
+chov
 lt
 left
 line
@@ -2664,6 +2674,8 @@ lq
 lFmZ
 lai
 letu
+livost
+lce
 mxGraphModel
 mxCell
 math
@@ -2849,6 +2861,7 @@ mgI
 mce
 maxim
 matematick
+mechanick
 gt
 gravita
 grid
@@ -3195,6 +3208,7 @@ rovnici
 rychlsoti
 radi
 rbldv
+rytmu
 id
 items
 inline
@@ -3367,6 +3381,8 @@ iZM
 iPx
 ijeme
 initel
+interakce
+ita
 quot
 qta
 qr
@@ -3656,6 +3672,7 @@ VUeo
 VYY
 VfU
 VFf
+Vytahov
 Zrychlen
 ZO
 ZP
@@ -3940,6 +3957,8 @@ zFfo
 zji
 zadan
 zyTVhR
+znamen
+zemskou
 te
 tooltips
 target
@@ -4103,6 +4122,8 @@ teme
 tlakem
 tekutin
 tlivky
+tedy
+tlaku
 ka
 kilogram
 kg
@@ -4268,6 +4289,9 @@ kNb
 kvadratick
 kinetick
 konstantn
+kyvadlo
+kyvadla
+klady
 as
 aspect
 align
@@ -4871,6 +4895,7 @@ nVV
 najdeme
 nulu
 neh
+nosn
 Array
 ABF
 Akce
@@ -5704,6 +5729,7 @@ Ffo
 FgX
 FVT
 FThR
+Fyzik
 Ozna
 Obsidian
 Ov
@@ -5979,6 +6005,7 @@ TcJ
 TtJ
 Tento
 Tato
+Toto
 Markdown
 Mechanika
 MJ
@@ -6751,6 +6778,8 @@ Kyk
 Kau
 Kdo
 Kqw
+Kyvadlo
+Kra
 yx
 yoe
 yO

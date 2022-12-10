@@ -7,4 +7,3 @@
 | A - amplituda              | [m]                    |                              |
 | $\omega$ - úhlová rychlost | [$\frac{1}{s}$]        | $\omega=\frac{2\pi}{T}$      |
 | a - zrychlení              | [$\frac{m}{s^2}$]      | $a=-\omega^2*y$              |
-|                            |                        |                              |

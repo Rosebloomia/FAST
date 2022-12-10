@@ -6,7 +6,7 @@
 (vzorec Ek = Ep platí pouze v poli konzervativních sil $\rightarrow$ v poli disipativních sil, kde jsou zahrnuty i síly jako je třecí síla, se již energie může krom Ek a Ep přetvořit do energie tepelné)
 
 ##### Rozepsaný vzorec Ek + Ep = konst:
-### $$\frac{1}{2}*m*v^2+m*g*h=konstanta$$
+$$\large \frac{1}{2}*m*v^2+m*g*h=konstanta$$
 	m... hmotnost
 	v... rychlosti
 	g... gravitační zrychlení (v jistých případech se může v příkladech objevit jiný druh zrychlení -> a)

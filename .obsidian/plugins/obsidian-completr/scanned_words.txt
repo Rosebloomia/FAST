@@ -68,6 +68,7 @@ au
 at
 aIkJ
 atom
+abychom
 zev
 zrychlen
 zpomalen
@@ -386,6 +387,8 @@ lO
 lV
 lro
 lY
+lce
+lec
 metr
 mno
 mol
@@ -609,6 +612,7 @@ kLo
 kG
 kDF
 kmk
+klady
 sekunda
 stv
 studuje
@@ -1236,6 +1240,8 @@ hr
 hJS
 hD
 hu
+hli
+hladinu
 prostoru
 projevy
 proud
@@ -1350,6 +1356,9 @@ pozn
 princip
 porozum
 proces
+plave
+podstavy
+plochu
 vlastnosti
 vb
 vzh
@@ -1442,6 +1451,9 @@ vZ
 vJ
 vS
 vesm
+vody
+vykonat
+vyt
 Vlastnosti
 Vzorec
 VIEW
@@ -1493,6 +1505,7 @@ Ve
 Vh
 Vml
 VU
+Vytahov
 gravita
 gV
 go
@@ -2971,6 +2984,7 @@ JO
 JF
 JWn
 Jc
+Jakou
 Kf
 KA
 KC
@@ -3025,6 +3039,7 @@ Kx
 KuK
 KkPq
 KafXoI
+Kra
 xO
 xT
 xJ

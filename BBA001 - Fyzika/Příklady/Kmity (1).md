@@ -16,9 +16,29 @@ $$\large y=A*\sin(\omega*t+\varphi)$$
 
 --- 
 
-- Dosadíme do: $\large \omega=\frac{2\pi}{T}\Rightarrow\frac{2\pi}{2s}=\pi*s^{-1}$
+- Dosadíme do: $\large \omega=\frac{2\pi}{T}\Rightarrow\frac{2\pi}{2s}=\frac{\pi}{s^1}$
 
 ---
 
 - Dosadíme do: $a=-\omega^2*y\Rightarrow-\omega^2*A*\sin(\omega*t+\varphi)$
-- A teď trochu složitější úvaha... Máme zadané $a_{max}$, přičemž „víme“ že zrychlení je největší 
+- A teď trochu složitější úvaha... Máme zadané $a_{max}$, přičemž „víme“ že zrychlení je největší ve chvíli kdy je největší výchylka $y$ (viz pružina se závažím, když je dole a vzápětí vystřelí nahoru). Dále musíme pochopit že výchylka $y$ je definovaná vztahem $A*\sin(\omega*t+\varphi)$, kde <mark style="background: #ABF7F7A6;">A je maximální výchylka </mark> vynásobená sinem, který v závislosti na čase $t$ nabývá hodnot od 0 do 1. Z toho plyne, že pro získání největší výchylky $y$ se musí za $\sin(\omega*t+\varphi)$ dosadit 1.
+- Po dosazení získávame výraz: $a_{max}=-\omega^2*A*1$ 
+- z toho dopočítáme: $A=0.05[m]$ 
+![[přiklady_kmity1_(2).jpg]]
+
+---
+ 
+- Jako poslední musíme vypočítat úhlovou dráhu $\varphi$ . Ta se vždy vztahuje k v času $t=0$ 
+- dosadíme tedy do vzorce: 
+$$y=A*\sin(\omega*t+\varphi)$$
+$$y_{(0)}=A*\sin(\omega*0+\varphi)$$
+$$y_{(0)}=A*\sin\varphi$$
+$$\sin\varphi=\frac{y_{(0)}}{A}$$
+$$\sin\varphi=\frac{0.025}{0.05}=\frac{1}{2}$$
+$$\arcsin\frac{1}{2}=\frac{\pi}{6}$$
+
+--- 
+
+Výsledek:
+$$\large y=0.005m*\sin(\frac{\pi}{s^1}*t+\frac{\pi}{6})$$
+- pozor: výsledek musí obsahovat jednotky ($m,s$)

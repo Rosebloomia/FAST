@@ -4,3 +4,6 @@ Fyzika <mark style="background: #FFF3A3A6;">studuje hmotu</mark> v prostoru a č
 - schopnost vést el. proud
 ### Projevy
 - gravitační pole a pohyby
+
+ 
+

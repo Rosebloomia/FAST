@@ -67,6 +67,7 @@ aq
 au
 at
 aIkJ
+atom
 zev
 zrychlen
 zpomalen
@@ -131,6 +132,7 @@ zE
 zSq
 zQS
 zvz
+zab
 Ozna
 Obsidian
 OPTIONS
@@ -255,6 +257,8 @@ eU
 eg
 eW
 eaQ
+etn
+elektromagnetismu
 jednotky
 jednotka
 jej
@@ -323,6 +327,7 @@ jkDL
 js
 jT
 jM
+jev
 lka
 lorem
 ln
@@ -461,6 +466,7 @@ mmA
 mXC
 mx
 mO
+mechaniky
 Hmotnost
 Hi
 How
@@ -708,6 +714,7 @@ sN
 sB
 sAhd
 ss
+sna
 Proud
 Projevy
 Pepepga
@@ -769,6 +776,7 @@ PTf
 Pn
 PK
 Psv
+PtXhir
 Sv
 Switch
 SI
@@ -891,6 +899,7 @@ ti
 tq
 tDyp
 tfqV
+termodynamiky
 cd
 code
 comm
@@ -956,6 +965,7 @@ cvq
 cct
 cdX
 cb
+cm
 Teplotn
 The
 Text
@@ -1096,6 +1106,7 @@ rIGt
 rh
 rEgH
 rhx
+relativity
 Fyzika
 FFF
 FF
@@ -1144,6 +1155,7 @@ FT
 FySp
 FG
 FRq
+Fvz
 hmotu
 hKU
 ha
@@ -1334,6 +1346,10 @@ pcd
 pNSC
 prr
 potencion
+pozn
+princip
+porozum
+proces
 vlastnosti
 vb
 vzh
@@ -1425,6 +1441,7 @@ vQ
 vZ
 vJ
 vS
+vesm
 Vlastnosti
 Vzorec
 VIEW
@@ -1528,6 +1545,7 @@ gY
 gj
 gs
 gArJ
+galaxie
 dal
 dash
 do
@@ -1867,6 +1885,8 @@ iR
 il
 ij
 im
+interdisciplin
+irokou
 background
 bu
 bDll
@@ -2308,6 +2328,10 @@ oZ
 ox
 oT
 oBc
+omfreh
+obor
+oblast
+optiky
 XgLBd
 Xvx
 Xx
@@ -2354,6 +2378,7 @@ XnO
 XV
 XYU
 Xk
+XuKTU
 Cgmf
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 Ch
@@ -2506,6 +2531,7 @@ BJ
 BG
 Bli
 BY
+BeYf
 yO
 yRqdoY
 yx
@@ -2779,6 +2805,7 @@ ZG
 ZNq
 Zs
 Zk
+Zahrnuje
 qsir
 qta
 qr
@@ -2997,6 +3024,7 @@ Ku
 Kx
 KuK
 KkPq
+KafXoI
 xO
 xT
 xJ
@@ -3050,6 +3078,7 @@ xbW
 xUl
 xh
 xYzYzz
+xqU
 GY
 Gi
 GrkW

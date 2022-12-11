@@ -5,6 +5,7 @@
 .obsidian/hotkeys.json
 .obsidian/workspace
 .obsidian/workspace.json
-.obsidian/plugins/obsidian-textgenerator-plugin
+.obsidian/plugins/obsidian-textgenerator-plugin/data.json
 .obsidian/text-generator.json
 .obsidian/plugins/obsidian-completr/scanned_words.txt
+.obsidian/command-palette.json

@@ -1,0 +1,1 @@
+Jak převést obnecné zadání přímky v prostoru na parametrické?

@@ -1,18 +1,17 @@
 [
-  "highlightr-plugin",
-  "table-editor-obsidian",
   "obsidian-admonition",
+  "table-editor-obsidian",
   "obsidian-checklist-plugin",
   "cmenu-plugin",
-  "obsidian-heading-shifter",
-  "quick-latex",
-  "obsidian-git",
   "obsidian-completr",
-  "obsidian-reading-time",
+  "obsidian-desmos",
   "drawio-obsidian",
   "obsidian-excalidraw-plugin",
-  "multi-column-markdown",
-  "obsidian-desmos",
-  "obsidian-textgenerator-plugin",
-  "obsidian-export-image"
+  "obsidian-export-image",
+  "obsidian-heading-shifter",
+  "highlightr-plugin",
+  "obsidian-git",
+  "quick-latex",
+  "obsidian-reading-time",
+  "obsidian-textgenerator-plugin"
 ]

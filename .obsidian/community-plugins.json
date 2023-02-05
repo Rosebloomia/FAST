@@ -13,5 +13,6 @@
   "obsidian-git",
   "quick-latex",
   "obsidian-reading-time",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-pandoc"
 ]

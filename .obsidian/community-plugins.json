@@ -16,5 +16,6 @@
   "obsidian-textgenerator-plugin",
   "obsidian-pandoc",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "numerals"
 ]

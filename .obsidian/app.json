@@ -12,5 +12,6 @@
   "spellcheckLanguages": [
     "en-US",
     "cs"
-  ]
+  ],
+  "attachmentFolderPath": "assets"
 }

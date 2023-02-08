@@ -11,7 +11,9 @@
   "tabSize": 2,
   "spellcheckLanguages": [
     "en-US",
-    "cs"
+    "cs",
+    "sk"
   ],
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "spellcheck": false
 }

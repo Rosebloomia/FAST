@@ -5,7 +5,6 @@
   "cmenu-plugin",
   "obsidian-completr",
   "obsidian-desmos",
-  "drawio-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-export-image",
   "obsidian-heading-shifter",
@@ -13,9 +12,6 @@
   "obsidian-git",
   "quick-latex",
   "obsidian-reading-time",
-  "obsidian-textgenerator-plugin",
-  "obsidian-pandoc",
   "omnisearch",
-  "text-extractor",
   "numerals"
 ]

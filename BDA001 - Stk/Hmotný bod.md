@@ -1,0 +1,1 @@
+**Nahrazuje těleso**. Neobsahuje informace o rotaci -> trajektorie bodů jsou stejné

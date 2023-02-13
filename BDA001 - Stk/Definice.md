@@ -32,5 +32,7 @@ $$\large M=r*F\;\;\;;\;\;M=||M||$$
 - výsledný účinek je moment, NE posun
 ![[Dvojice sil]]
 
+#### DOF - Degrees of freedom (Stupně volnosti)
+
 
 

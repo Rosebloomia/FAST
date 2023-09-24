@@ -9,11 +9,7 @@
   },
   "alwaysUpdateLinks": true,
   "tabSize": 2,
-  "spellcheckLanguages": [
-    "en-US",
-    "cs",
-    "sk"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "BDA001 - Stk/assets",
   "spellcheck": false
 }

@@ -29,6 +29,7 @@
 - značí se $gd$
 - zatížení od stropní kce, omítky, podlahy atd.
 ## **$gd=h*1.35*\rho$**
+
 - $h$ je tloušťka konstrukce
 ## Nahodilé
 - značí se $qd$

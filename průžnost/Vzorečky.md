@@ -29,7 +29,7 @@ $$\large \sigma x = \frac{M_y}{I_{y}}\cdot z$$
 - $Iy$ - moment setrvačnosti ($mm^4$) - při výpočtu dosazovat metry
 - $z$ - vzdálenost od těžiště, většinou k okraji průřezu, **nahoru je *-* dolů je +**
 
-
+P
 
 
 

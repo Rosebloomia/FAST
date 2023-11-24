@@ -12,10 +12,9 @@ $$\large\sigma x=\frac{N}{A}\ \ \ [KPa]$$
 
 ## Deformace (prodloužení) $\large\Delta l$
 $$\large\Delta l=\frac{N\cdot l}{E\cdot A}\ \ \ \ [m]$$
-- $N$ - síla
-- $l$ - délka
-- $E$ - modul pružnosti
-- $A$ - plocha
+- $N$ - síla ($KN$)
+- $l$ - délka ($m$)
+- $E$ - modul pružnosti ($KPa$)
 
 ## Teplotní deformace $\large\Delta l$
 $$\large\Delta l=\alpha\cdot l_{0}\cdot \Delta t\ \ \ \ [m]$$
@@ -44,7 +43,7 @@ $$\large S_y =  A\cdot z_y$$
 ## Šikmý ohyb
 $$\large \sigma x= \frac{M_{y}^*}{I_{y}^*}\cdot z^*-\frac{M_{z}^*}{I_{z}^*}\cdot y^*$$
 
-## Kroutivé napětí idk
+## Kroutivé napětí
 #### Pro uzavřený profil
 $$\large I_t=\frac{4\cdot A^{2}_t}{\Sigma\frac{h_i}{t_i}}$$
 - TODO popsat co je co a dokreslit obrázky v excali
@@ -58,4 +57,4 @@ $$\large \varphi = \frac{M_k\cdot l}{G\cdot I_t}\ \ \ \ [rad]$$
 - $M_k$ - kroutivý moment ($KN\cdot m\; ; \; KPa)$
 - $l$ - vzdálenost ($m$)
 - $G$ - modul pružnosti ve smyku ($KPa$) - bude zadaný u oceli 81 $GPa$, takže dát $\cdot 10^6$
-- $I_t$ - kroutivé napětí ($m^4$)
+- $I_t$ - [[#Kroutivé napětí idk]] ($m^4$)

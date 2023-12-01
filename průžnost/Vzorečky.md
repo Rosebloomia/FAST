@@ -58,3 +58,10 @@ $$\large \varphi = \frac{M_k\cdot l}{G\cdot I_t}\ \ \ \ [rad]$$
 - $l$ - vzdálenost ($m$)
 - $G$ - modul pružnosti ve smyku ($KPa$) - bude zadaný u oceli 81 $GPa$, takže dát $\cdot 10^6$
 - $I_t$ - [[#Kroutivé napětí idk]] ($m^4$)
+- 
+
+## Modul pružnosti $E$
+- zadaný většinou v $GPa$
+- pro ocel $210\ GPa$
+- dosazujeme v $KPa$ takže $\cdot 10^6$
+

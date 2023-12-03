@@ -18,5 +18,6 @@
   "solve",
   "mathlinks",
   "copy-as-latex",
-  "math-booster"
+  "math-booster",
+  "obsidian-linter"
 ]

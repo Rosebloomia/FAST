@@ -6,18 +6,14 @@
 - Norm. pevnost zdicích prvků - 2,2 N/mm2
 ---
 ## Vnitřní nosné zdivo
-#### YTONG Standard 300 PDK
-- Objemová hmotnost prvku (v suchém stavu) - 375 kg/m³
-- Vzduchová neprůzvučnost $R_w$ - laboratorní - 46 dB
-- Norm. pevnost zdicích prvků - 2,7 N/mm2
+#### YTONG Statik 250 PD
+- Objemová hmotnost prvku (v suchém stavu) - 525 kg/m³
+- Vzduchová neprůzvučnost $R_w$ - laboratorní - 47 dB
+- Norm. pevnost zdicích prvků - 5 N/mm2
 
-#### YTONG Klasik 200
-- Objemová hmotnost prvku (v suchém stavu) - 475 kg/m³
-- Vzduchová neprůzvučnost $R_w$ - laboratorní - 43 dB
-- Norm. pevnost zdicích prvků - 2,8 N/mm2
 ---
 ## Příčky
-#### YTONG Klasik 150
+#### YTONG Klasik 125
 - Objemová hmotnost prvku (v suchém stavu) - 475 kg/m³
 - Vzduchová neprůzvučnost $R_w$ - laboratorní - 41/**44*** dB
 - Norm. pevnost zdicích prvků - 2,8 N/mm2
